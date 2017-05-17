@@ -1,0 +1,16 @@
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\bin\Debug\consoleCalc.exe.config
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\bin\Debug\consoleCalc.exe
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\bin\Debug\consoleCalc.pdb
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\bin\Debug\Calculator.dll
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\bin\Debug\Calculator.pdb
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\obj\Debug\consoleCalc.csprojResolveAssemblyReference.cache
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\obj\Debug\consoleCalc.exe
+c:\users\andrey\documents\visual studio 2017\Projects\Calculator\consoleCalc\obj\Debug\consoleCalc.pdb
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\bin\Debug\consoleCalc.exe.config
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\bin\Debug\consoleCalc.exe
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\bin\Debug\consoleCalc.pdb
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\bin\Debug\Calculator.dll
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\bin\Debug\Calculator.pdb
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\obj\Debug\consoleCalc.csprojResolveAssemblyReference.cache
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\obj\Debug\consoleCalc.exe
+C:\Users\lewas\Documents\Visual Studio 2017\Projects\Calculator\consoleCalc\obj\Debug\consoleCalc.pdb
